@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400">
+  <img src="https://media3.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" alt="Coding GIF" width="400">
 </p>
 
 # Hi, I’m Neluni Madeesha! 👋  
