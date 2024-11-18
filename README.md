@@ -77,3 +77,33 @@ I enjoy blending logic and creativity, whether it’s through coding or designin
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeluniM&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeluniM&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NeluniM&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+## 🔝 Top Contributed Repositories
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeluniM&theme=radical" alt="Streak Stats" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=NeluniM&icon=0&color=0" alt="Profile Visit Count" />
+  </a>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
