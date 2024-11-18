@@ -1,8 +1,7 @@
-
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" alt="Coding GIF" width="400">
+  <img src=" https://cdn.dribbble.com/users/4412543/screenshots/11086928/working_girl.gif" alt="Coding GIF" width="400">
 </p>
 
 # Hi, I’m Neluni Madeesha! 👋  
@@ -82,6 +81,14 @@ I enjoy blending logic and creativity, whether it’s through coding or designin
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeluniMadeesha&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeluniMadeesha&layout=compact&theme=radical" alt="Top Languages" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeluniM&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeluniM&layout=compact&theme=radical" alt="Top Languages" width="400">
+  <br>
+  
+  
 </p>
+
+---
+
+
+
