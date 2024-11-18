@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src=" https://cdn.dribbble.com/users/4412543/screenshots/11086928/working_girl.gif" alt="Coding GIF" width="400">
+  <img src=" [https://cdn.dribbble.com/users/4412543/screenshots/11086928/working_girl.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDuk9LLBqVr4AIGDy5-Mj0aye1KOW2THNub_1wariE1F-7N0nhgANB1iEO5lzaskvq_4&usqp=CAU)" alt="Coding GIF" width="400">
 </p>
 
 # Hi, I’m Neluni Madeesha! 👋  
